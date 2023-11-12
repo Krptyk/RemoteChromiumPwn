@@ -25,7 +25,7 @@ Install the required packages using pip:
 
 To get started with RemoteChromiumPwn, you can use the following command line arguments:
 
-    python cclc.py --port <PORT> [options]
+    python RemoteChromiumPwn.py --port <PORT> [options]
 
 Here are the available options:
 
