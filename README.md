@@ -1,6 +1,10 @@
 # RemoteChromiumPwn
 A streamlined script for Chromium-based browsers that enables remote debugging, allowing users to extract, load, and manage cookie data as well as page information via a specified port, with output customization in human-readable or JSON format.
 
+## View a detailed blog walkthrough of differnt use cases:
+### <a href="https://krptyk.com/2023/11/12/remotechromiumpwn/">Chromium Remote Debugging: A Tactical Guide for Red Team Operations</a>
+
+
 ## Features
 
 - **Dump Cookies**: Extract cookies from a remote debugging session and output them to the terminal or a file.
