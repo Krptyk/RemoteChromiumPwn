@@ -37,7 +37,7 @@ Here are the available options:
     --load-cookies or -lc: Load cookies from the specified input file.
     --dump-pages or -dp: Dump the pages information to the terminal or output file.
     --output or -o: Specify the output file to save the cookies or pages information.
-    --format or -f: Choose the output format (standard or json). Defaults to human.
+    --format or -f: Choose the output format (standard or json). Defaults to standard.
 
 ## Examples
 
